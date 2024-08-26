@@ -1,5 +1,5 @@
-// imports
+import FileManager from './FileManager';
 
 export default {
-  // components
+  FileManager,
 };
